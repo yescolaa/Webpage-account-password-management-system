@@ -1,0 +1,11 @@
+1. Install XAMPP
+
+2. Start up XAMPP Control Panel
+
+3. Start Apache and MySQL, so you can connect to localhost
+
+4. Download the LoginSystem.zip in our github.   https://github.com/yescolaa/Webpage-account-password-management-system/tree/main/src/php
+
+5. unzip the file and put the LoginSystem folder under ...\xampp\htdoc    My path look like this:   C:\xampp\htdocs
+
+6.
