@@ -1,5 +1,5 @@
 project title: User account password management system webpage
 
-goal: let users can loggin normally and can also change the password.
+goal: Users can loggin normally and can also change the password and email.
 
-Function: 1. manage users accounts 2. manage users passwords 3. Users can change their password 4. Correct Id and password can log into system
+Functions: 1. manage users accounts 2. User can change their name 3. Users can change their password 4. Users can change their email 5. Log in and out
