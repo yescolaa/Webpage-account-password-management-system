@@ -8,10 +8,10 @@
 
 5. Unzip the file and put the LoginSystem folder under ...\xampp\htdoc    My path look like this:   C:\xampp\htdocs
 
-6. Download the users.sql file in out github    https://github.com/yescolaa/Webpage-account-password-management-system/tree/main/src/sql
+6. Download the users.sql file in our github.    https://github.com/yescolaa/Webpage-account-password-management-system/tree/main/src/sql
 
 7. Open up your browser and type:   http://localhost/phpmyadmin/index.php
 
-8. Find the import function and import users.sql into it.
+8. Create a database naming "login_db". Find the import function and import users.sql into it.
 
 9. Now use your browser go to   http://localhost/LoginSystem/login.php    and start using our System.
