@@ -3,6 +3,9 @@
 # description of the project:
 A webpage system that users can create account, password, username and email. They can also change the password, name and email after they log in.
 
+# functions:
+1. Sign up: (1) create account, password, email and name. (2)No Chinese space or symbols are allowed in acoount and password. (3) You can't sign up the same account.
+2. Log in :
 
 # list of member:  
 
