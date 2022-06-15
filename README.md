@@ -1,6 +1,7 @@
 # Webpage-account-password-management-system
 
-# description of the project: A webpage system that users can create account, password, username and email. They can also change the password, name and email after they log in.
+# description of the project:
+A webpage system that users can create account, password, username and email. They can also change the password, name and email after they log in.
 
 
 list of member:  
