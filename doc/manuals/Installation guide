@@ -14,4 +14,4 @@
 
 8. Create a database naming "login_db". Find the import function and import "users.sql" into it.
 
-9. Now use your browser go to   http://localhost/LoginSystem/login.php    and start using our System.
+9. Now use your browser go to   <http://localhost/LoginSystem/login.php>   and start using our System.
